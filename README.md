@@ -115,8 +115,8 @@ A review of the original design found a few gaps:
 ## Team
 
 - America Fitch
-- _Partner name_
-- _Partner name_
+- Ashley Villar
+- Calvin White
 
 Sample data, example queries and the design review were added by America
 Fitch after the course.
